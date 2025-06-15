@@ -1,4 +1,0 @@
-com\example\chat\model\Message.class
-com\example\chat\service\GeminiService.class
-com\example\chat\servlet\ChatServlet.class
-com\example\chat\servlet\ClearServlet.class
