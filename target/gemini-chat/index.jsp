@@ -13,7 +13,7 @@
     <div class="container">
         <header>
             <h1>AIチャット</h1>
-            <p>AIチャット(Gemini)</p>
+            <p>Gemini版</p>
         </header>
         
         <div class="chat-container">
